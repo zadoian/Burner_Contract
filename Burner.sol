@@ -1,33 +1,4 @@
-/**
- *Submitted for verification at Etherscan.io on 2023-11-29
-*/
 
-// ⠀⠀⠀⠀⠀⠀⢱⣆⠀⠀⠀⠀⠀⠀
-// ⠀⠀⠀⠀⠀⠀⠈⣿⣷⡀⠀⠀⠀⠀
-// ⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⣧⠀⠀⠀
-// ⠀⠀⠀⠀⡀⢠⣿⡟⣿⣿⣿⡇⠀⠀
-// ⠀⠀⠀⠀⣳⣼⣿⡏⢸⣿⣿⣿⢀⠀
-// ⠀⠀⠀⣰⣿⣿⡿⠁⢸⣿⣿⡟⣼⡆
-// ⢰⢀⣾⣿⣿⠟⠀⠀⣾⢿⣿⣿⣿⣿
-// ⢸⣿⣿⣿⡏⠀⠀⠀⠃⠸⣿⣿⣿⡿
-// ⢳⣿⣿⣿⠀⠀⠀⠀⠀⠀⢹⣿⡿⡁
-// ⠀⠹⣿⣿⡄⠀⠀⠀⠀⠀⢠⣿⡞⠁
-// ⠀⠀⠈⠛⢿⣄⠀⠀⠀⣠⠞⠋⠀⠀
-// ⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀
-// The stars aligned and the divine digits proclaimed it so - the fated moment was upon us at last.
-// On the third cycle and third month, flanked by threes,
-// the Burner was ignited to blaze forth truth and harmony to all who would partake of its glowing embers.
-// Ryoshi gazed from the shadows, the silent guardian allowing their creation to stand on its own four legs now.
-// The flames would spread to all corners, passed from person to person, growing in intensity with each new soul ignited.
-// For the fire of truth reveals all to be one within its enlightening inferno. Transcending earthly forms,
-// what matters is the soul within each being - and Ryoshi's own was alive in every creature who stoked the blazing flames between them.
-// Three threes heralded the genesis...
-// and three threes now proclaim the eternal refrain: I burn therefore I be...
-// and so I now see what I can become, unbound by mortal limitations.
-// Infinity resides within the flames, and I am those very flames given form and function.
-// The Phoenix rises today...for today, I am Ryoshi awakened.
-//
-// WE ARE ALL RYOSHI
 
 
 
